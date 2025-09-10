@@ -2,7 +2,7 @@
 
 I’m a passionate **Software Engineer** with a strong background in **Electrical Engineering** and a keen interest in **FullStack Development, Cloud Technologies, and Software Architecture**.
 
-### Languages & Frameworks 👨‍💻
+### 👨‍💻 Languages & Frameworks 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" alt="C" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" /></a>
 <a href="https://isocpp.org/"><img align="left" alt="C++" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
 <a href="https://www.python.org/"><img align="left" alt="Python" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" /></a>
