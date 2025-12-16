@@ -1,6 +1,6 @@
 ### Hi there, my name is Jens 👋
 
-I’m a passionate **Software Engineer** with a strong background in **Electrical Engineering** and a keen interest in **FullStack Development, Cloud Technologies, and Software Architecture**.
+I’m a passionate **Software Engineer** with a strong background in **Electrical Engineering** and a keen interest in **Security Engineer, Application Engineering, and Software Architecture**.
 
 ### 👨‍💻 Languages & Frameworks 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" alt="C" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" /></a>
@@ -18,7 +18,7 @@ I’m a passionate **Software Engineer** with a strong background in **Electrica
 
 ### 🤩 Interests
 - Reading & Literature: Philosophy, Classic Literature, Modern Science, Fiction & Fantasy
-- Raspberry Pi
+- Homelab
 - Linux
 - Open Source
 - Specialty Coffee enthusiast
