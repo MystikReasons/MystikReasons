@@ -2,7 +2,7 @@
 
 I’m a passionate **Software Engineer** with a strong background in **Electrical Engineering** and a keen interest in **Security Engineer, Application Engineering, and Software Architecture**.
 
-### 👨‍💻 Languages & Frameworks 
+### Languages & Frameworks 👨‍💻
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" alt="C" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" /></a>
 <a href="https://isocpp.org/"><img align="left" alt="C++" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
 <a href="https://www.python.org/"><img align="left" alt="Python" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" /></a>
@@ -13,15 +13,12 @@ I’m a passionate **Software Engineer** with a strong background in **Electrica
 <br>
 <br>
 
-### 👬 Collaboration
-- Always open to work on exciting projects with other developers
-
-### 🤩 Interests
+### Interests 🤩
 - Reading & Literature: Philosophy, Classic Literature, Modern Science, Fiction & Fantasy
 - Homelab
 - Linux
 - Open Source
 - Specialty Coffee enthusiast
 
-### 📫 Get in touch  
+### Get in touch 📫
 <a href="mailto:jens.gwerder@protonmail.ch"><img align="left" alt="Mail" width="35px" src="https://cdn-icons-png.flaticon.com/512/9068/9068642.png" /></a>
