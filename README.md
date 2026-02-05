@@ -1,6 +1,6 @@
 ### Hi there, my name is Jens 👋
 
-I’m a passionate **Software Engineer** with a strong background in **Electrical Engineering** and a keen interest in **Security Engineer, Application Engineering, and Software Architecture**.
+I’m a passionate **Software Engineer** with a strong background in **Electrical Engineering**. My main interests include Software Architecture, Application Engineering, Security, and modern systems programming.
 
 ### Languages & Frameworks 👨‍💻
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="left" alt="C" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" /></a>
@@ -19,6 +19,11 @@ I’m a passionate **Software Engineer** with a strong background in **Electrica
 - Linux
 - Open Source
 - Specialty Coffee enthusiast
+
+### Currently exploring ⚡
+- Reverse engineering (binary analysis, disassembly, firmware insights)
+- Cybersecurity (Network security fundamentals, Vulnerability research)
+- Building automation tools for my homelab
 
 ### Get in touch 📫
 <a href="mailto:jens.gwerder@protonmail.ch"><img align="left" alt="Mail" width="35px" src="https://cdn-icons-png.flaticon.com/512/9068/9068642.png" /></a>
